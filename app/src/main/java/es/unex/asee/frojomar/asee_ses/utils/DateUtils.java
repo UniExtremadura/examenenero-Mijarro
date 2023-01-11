@@ -3,6 +3,7 @@ package es.unex.asee.frojomar.asee_ses.utils;
 //import android.util.Log;
 
 //Simulación de la implementación del caso de uso 18 - Rol: AS
+//Simulación de la implementación del caso de uso 18 - Rol: DS
 
 import java.sql.Time;
 import java.text.DateFormat;
